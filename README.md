@@ -134,10 +134,10 @@ List of my programming side projects.
 - Platform: Mobile / Backend
 - Tech: Flutter, Dart / Java, Spring Boot 
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Mobile frontend with Flutter and Dart, backend with Java Spring Boot
+  - Backend Fetches lunch menu weekly, saves to database, frontend requests menu with Rest Api
+  - Extra features like view menu history, vote on courses, stats about courses
+- Link: https://github.com/Koodattu/lunch-menu-app
 
 #### 2018
 
@@ -146,10 +146,10 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: Java, Android
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Displays two restaurants daily lunch menu side by side
+  - Fetches Sodexo lunch menu with rest api in Json
+  - Scrapes Eventti lunch menu from website html
+- Link: https://github.com/Koodattu/jere-food-royale-android
 
 #### 2017
 
@@ -158,9 +158,9 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: Java, Android, Google Sheets
 - Features:
-  - ?
-  - ?
-  - ?
+  - Coffee shop products catalogue and latest social media posts
+  - Catalogue data is fetched from google sheets
+  - Latest social media posts are fetched from Facebook and Instagram
 - Link: ?
 
 ##### SeAMK Lukkari
@@ -168,10 +168,11 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: Java, Android
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Displays a student group's daily, weekly and period timetable
+  - Create your own timetable, view other student group's timetables, search for an empty room
+  - See weekly lunch menus from student restaurants
+  - Data is fetched from SeAMK and Sodexo using Rest in Json
+- Link: https://github.com/Koodattu/SeAMK-Lukkari
 
 #### 2016
 
@@ -180,9 +181,8 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: Android, Java
 - Features:
-  - ?
-  - ?
-  - ?
+  - See weekly lunch menus from student restaurants
+  - Data is fetched from Sodexo using Rest in Json
 - Link: ?
 
 ### Web
@@ -192,10 +192,10 @@ List of my programming side projects.
 - Platform: Web
 - Tech: Javascript, Python 
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Python script for generating Twitch and Spotify access tokens
+  - HTML page with only Javascript which can be added to OBS as a browser source
+  - No hosting required after initial setup
+- Link: https://github.com/Koodattu/twitch-spotify-song-request
 
 ### Desktop
 
@@ -216,10 +216,11 @@ List of my programming side projects.
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Song requests are read from Twitch channel points redeem rewards
+  - Supports song requests from Spotify and Youtube
+  - Spotify songs are played via local Spotify installation
+  - Youtube videos are played inside application
+- Link: https://github.com/Koodattu/twitch-song-request-desktop
 
 ### Other
 
@@ -234,19 +235,18 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ? 
 - Features:
-  - ?
-  - ?
-  - ?
-- Link: ?
+  - Information about self
+  - Projects
+  - CV
+- Link: https://github.com/Koodattu/koodattu.github.io
 
 #### Last Played Radio Stations Songs
 ##### A web / mobile application for viewing songs last played on finnish radio stations
 - Platform: Web / Mobile
 - Tech: ? / Flutter, Dart
 - Features:
-  - ?
-  - ?
-  - ?
+  - Lists all finnish radio stations
+  - View last played songs from each station
 - Link: ?
 
 #### WoW Mplus and Raid Tools and Stats
@@ -254,9 +254,12 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Charts, weekly and seasonal history about raids and mplus
+    - WoWProgress raid clears / RaiderIO runs per week / Subcreation rankings history
+  - Guild stats, who runs most keys, who runs with who
+  - WoWPop style (piechart?) most popular classes and specs
+  - View character all seasons history
+  - Rank wow xpacs
 - Link: ?
 
 #### Nettiauto Data Stats Analysis
@@ -286,9 +289,8 @@ List of my programming side projects.
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:
-  - ?
-  - ?
-  - ?
+  - Quickly trim video clips
+  - Render out video or only audio
 - Link: ?
 
 #### Automagic Video Highlight Clipper
@@ -296,9 +298,14 @@ List of my programming side projects.
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:
-  - ?
-  - ?
-  - ?
+  - Uses FFMPEG
+  - User can set an area to look for specific parts (text, camera, chat)
+  - Clip videos based on
+    - OCR, look for specific text in area for gameplay highlights
+    - Audio, focus on loud segments and remove silent parts
+    - Camera movement or movement on camera
+    - Chat message frequency
+  - Render out full video or in parts
 - Link: ?
 
 #### Drink More Water Desktop
@@ -306,9 +313,9 @@ List of my programming side projects.
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:
-  - ?
-  - ?
-  - ?
+  - Reminder to drink water at set intervals
+  - Calculate daily water intake
+  - Track water consumption
 - Link: ?
 
 ### Other
@@ -364,9 +371,10 @@ List of my programming side projects.
 - Platform: Web / Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Shows information about places offering lunch near location
+  - Select a random place with set properties (such as is epassi valid payment method)
+  - Create a group (such as for work) and vote on places to eat
+  - Rating places, days and foods
 - Link: ?
 
 #### Twitch Redeem Reward Stats
@@ -434,9 +442,10 @@ List of my programming side projects.
 - Platform: Web / Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Calculate calories per week and per day budget
+  - Calculate protein intake per day
+  - Calculate fiber intake per day
+  - Calculate water intake per day
 - Link: ?
 
 ### Desktop
@@ -584,9 +593,10 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Calculate optimal build
+    - Overall
+    - Character
+    - Kart
 - Link: ?
 
 #### Holy Smoke Website Rework
@@ -594,9 +604,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - New modern website
+  - Big images
+  - ChatGPT generated quotes for menu items
 - Link: ?
 
 ### Desktop

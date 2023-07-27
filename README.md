@@ -163,7 +163,7 @@ List of my programming side projects.
   - Coffee shop products catalogue and latest social media posts
   - Catalogue data is fetched from google sheets
   - Latest social media posts are fetched from Facebook and Instagram
-- Link: ?
+- Link: https://github.com/Koodattu/tsumppi-coffee-shop
 
 ##### SeAMK Lukkari
 ###### An Android timetable mobile application for SeAMK students
@@ -185,7 +185,7 @@ List of my programming side projects.
 - Features:
   - See your GPA and student credits
   - See all your completed courses and grades
-- Link: ?
+- Link: https://github.com/Koodattu/seamk-winhawille
 
 ##### SeAMK Lounas
 ###### An Android lunch menu mobile application for SeAMK students
@@ -194,7 +194,7 @@ List of my programming side projects.
 - Features:
   - See weekly lunch menus from student restaurants
   - Data is fetched from Sodexo using Rest in Json
-- Link: ?
+- Link: https://github.com/Koodattu/seamk-lounas
 
 ### Web
 

@@ -20,6 +20,8 @@ List of my programming side projects.
         * [SeAMK Lukkari](#seamk-lukkari)
           + An Android timetable mobile application for SeAMK students
       - [2016](#2016)
+        * [SeAMK WinhaWille](#seamk-winhawille)
+          + An Android study registry mobile application for SeAMK students
         * [SeAMK Lounas](#seamk-lounas)
           + An Android lunch menu mobile application for SeAMK students
     + [Web](#web)
@@ -175,6 +177,15 @@ List of my programming side projects.
 - Link: https://github.com/Koodattu/SeAMK-Lukkari
 
 #### 2016
+
+##### SeAMK WinhaWille
+###### An Android study registry mobile application for SeAMK students
+- Platform: Mobile
+- Tech: Android, Java
+- Features:
+  - See your GPA and student credits
+  - See all your completed courses and grades
+- Link: ?
 
 ##### SeAMK Lounas
 ###### An Android lunch menu mobile application for SeAMK students

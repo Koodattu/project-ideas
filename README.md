@@ -194,7 +194,7 @@ List of my programming side projects.
 - Features:
   - See weekly lunch menus from student restaurants
   - Data is fetched from Sodexo using Rest in Json
-- Link: -
+- Link: https://github.com/Koodattu/seamk-ruoka
 
 ### Web
 

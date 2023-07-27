@@ -260,6 +260,7 @@ List of my programming side projects.
   - WoWPop style (piechart?) most popular classes and specs
   - View character all seasons history
   - Rank wow xpacs
+  - View and filter gear in current raid and dungeons by armor type, slot and stats
 - Link: ?
 
 #### Nettiauto Data Stats Analysis

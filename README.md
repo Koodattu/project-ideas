@@ -198,8 +198,10 @@ List of my programming side projects.
 
 ### Web
 
-#### Twitch Spotify Song Request
-##### A simple javascript and python script for Twitch Spotify song requests
+#### 2023
+
+##### Twitch Spotify Song Request
+###### A simple javascript and python script for Twitch Spotify song requests
 - Platform: Web
 - Tech: Javascript, Python 
 - Features:
@@ -220,10 +222,8 @@ List of my programming side projects.
 
 ### Desktop
 
-#### 2023
-
-##### Twitch Song Request Desktop
-###### A Windows desktop Twitch song request application with multi-platform support for song requests
+#### Twitch Song Request Desktop
+##### A Windows desktop Twitch song request application with multi-platform support for song requests
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:

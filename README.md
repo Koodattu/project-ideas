@@ -624,3 +624,26 @@ List of my programming side projects.
   - Automatically add tickets to basket using rest api
   - User finishes purchase
 - Link: ?
+
+### Mangal app and website
+#### Mangal restaurant app for menu, lunch pass, offers and updated website
+- Platform: Web, Mobile
+- Tech: ?
+- Features:
+  - View menu
+  - Lunch pass
+  - Offers
+  - New website with images
+- Link: ?
+
+### Holy Smoke app and website
+#### Holy Smoke website style app for menu, lunch pass, offers, events and updated website
+- Platform: Web, Mobile
+- Tech: ?
+- Features:
+  - Holy Smoke website style
+  - View menu
+  - Lunch pass stamps
+  - Events
+  - Offers
+- Link: ?

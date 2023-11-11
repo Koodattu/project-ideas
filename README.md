@@ -70,6 +70,7 @@ List of my programming side projects.
       - [Multiple Marketplace Website](#multiple-marketplace-website)
       - [SeAMK Ruoka 2 With Flutter](#seamk-ruoka-2-with-flutter)
       - [Kide App Event Ticket Bot](#kide-app-event-ticket-bot)
+      - [Pohjoinen Guild Website](#pohjoinen-guild-website)
 
 ## Completed Projects
 
@@ -646,4 +647,16 @@ List of my programming side projects.
   - Lunch pass stamps
   - Events
   - Offers
+- Link: ?
+- 
+### Pohjoinen Guild Website
+#### Pohjoinen guild website with functionality designed by jampton
+- Platform: Web
+- Tech: ?
+- Features:
+  - BiS list with droptimizer integration
+  - Battle net login
+  - 
+  - 
+  - 
 - Link: ?

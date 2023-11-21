@@ -182,6 +182,7 @@ List of my programming side projects.
 - Features:
   - Lists all finnish radio stations
   - View last played songs from each station
+  - Statistics, which songs are popular over time, visualization
 - Link: ?
 
 ### WoW Mplus and Raid Tools and Stats
@@ -198,7 +199,7 @@ List of my programming side projects.
   - View and filter gear in current raid and dungeons by armor type, slot and stats
   - List of weekly affixes
   - Time spent in dungeons (from raider io m+ runs)
-  - Addon output analyzer (RCLC loot council, keycount, others with export)
+  - Addon output analyzer (RCLC loot council, keycount, others with export), visualization
 - Link: ?
 
 ### Nettiauto Data Stats Analysis

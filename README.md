@@ -71,6 +71,7 @@ List of my programming side projects.
       - [SeAMK Ruoka 2 With Flutter](#seamk-ruoka-2-with-flutter)
       - [Kide App Event Ticket Bot](#kide-app-event-ticket-bot)
       - [Pohjoinen Guild Website](#pohjoinen-guild-website)
+      - [WoW Legendary Price Calculator](#wow-legendary-price-calculator)
 
 ## Completed Projects
 
@@ -651,7 +652,7 @@ List of my programming side projects.
   - Events
   - Offers
 - Link: ?
-- 
+  
 ### Pohjoinen Guild Website
 #### Pohjoinen guild website with functionality designed by jampton
 - Platform: Web
@@ -659,7 +660,11 @@ List of my programming side projects.
 - Features:
   - BiS list with droptimizer integration
   - Battle net login
-  - 
-  - 
-  - 
+  
+### WoW Legendary Price Calculator
+#### Website with current price of wow 10.2 legendary weapon crafting materials by region 
+- Platform: Web
+- Tech: ?
+- Features:
+  - Show current price of materials to craft legendary weapon per region
 - Link: ?

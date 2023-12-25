@@ -11,7 +11,7 @@ List of my programming side projects.
       * A Windows desktop Twitch song request application with multi-platform support for song requests
     - [Twitch Spotify Song Request](#twitch-spotify-song-request)
       + A simple javascript and python script for Twitch Spotify song requests
-    - [Staff Restaurant Lunch Menu App](staff-restaurant-lunch-menu-app)
+    - [Staff Restaurant Lunch Menu App](#staff-restaurant-lunch-menu-app)
       + A lunch menu mobile application with frontend and backend for previous employer staff restaurant
     - [Räccis SeAMK Food Royale](#räccis-seamk-food-royale)
       + An Android lunch menu mobile application for a friend

@@ -72,6 +72,10 @@ List of my programming side projects.
       - [Kide App Event Ticket Bot](#kide-app-event-ticket-bot)
       - [Pohjoinen Guild Website](#pohjoinen-guild-website)
       - [WoW Legendary Price Calculator](#wow-legendary-price-calculator)
+      - [Shyiez Lunch App](#shyiez-lunch-app)
+      - [Stikide Electricity app](#stikide-electricity-app)
+      - [Twitch Random Clip Player](#twitch-random-clip-player)
+      - [Vaarattu.tv website](#vaarattu-tv-website)
 
 ## Completed Projects
 
@@ -704,7 +708,7 @@ List of my programming side projects.
   - Keeps audience engaged while streamer is afk
 - Link: ?
 
-### Vaarattu.tv website
+### Vaarattu tv website
 #### Web apps and info about vaarattu twitch stream
 - Platform: Web
 - Tech: ?

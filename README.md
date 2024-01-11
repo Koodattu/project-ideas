@@ -77,6 +77,7 @@ List of my programming side projects.
       - [Twitch Random Clip Player](#twitch-random-clip-player)
       - [Vaarattu.tv website](#vaarattu-tv-website)
       - [WoW Trading Post Web](#wow-trading-post-web)
+      - [Local Files Organizer](#local-files-organizer)
 
 ## Completed Projects
 
@@ -207,6 +208,7 @@ List of my programming side projects.
   - List of weekly affixes
   - Time spent in dungeons (from raider io m+ runs)
   - Addon output analyzer (RCLC loot council, keycount, others with export), visualization
+  - Legendary population statistics
 - Link: ?
 
 ### Nettiauto Data Stats Analysis
@@ -727,4 +729,14 @@ List of my programming side projects.
   - Better user interface for planning which tasks to do
   - View all items
   - Get tasks from wowhead / in-game?
+- Link: ?
+
+### Local Files Organizer
+#### Organize local files in different ways, for digital hoarders
+- Platform: Desktop
+- Tech: ?
+- Features:
+  - Given a folder, reads all files in all subfolders
+  - Shows GUI to organize files by size, type, date
+  - Possibility to output organized folder stucture
 - Link: ?

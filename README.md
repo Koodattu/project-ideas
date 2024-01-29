@@ -86,7 +86,7 @@ List of my programming side projects.
 - Tech:
   - Platform: Windows
   - Languages: C#
-  - Frontend: WPF
+  - Frontend: WPF, .NET
   - Tools: Visual Studio
 - Features:
   - Song requests are read from Twitch channel points redeem rewards

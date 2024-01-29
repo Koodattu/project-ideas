@@ -84,7 +84,7 @@ List of my programming side projects.
 ### Twitch Song Request Desktop
 #### A Windows desktop Twitch song request application with multi-platform support for song requests
 - Tech:
-  - Platform: Windows
+  - Platform: Desktop
   - Languages: C#
   - Frontend: WPF, .NET
   - Tools: Visual Studio

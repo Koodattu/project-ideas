@@ -209,7 +209,6 @@ List of my programming side projects.
 
 ### Personal Website
 #### Personal website with CV and information about myself and my projects
-- Platform: Web
 - Tech:
   - Platform: Web
   - Languages: JavaScript
@@ -217,15 +216,14 @@ List of my programming side projects.
   - Backend: Github Pages
   - Tools: Visual Studio Code
 - Features:
-  - Information about self
-  - Projects
-  - CV
+  - Information about myself, education, work experience, projects
+  - In-depth information about educatio and work experience
+  - Projects gallery and in-depth information about the projects
 - Link: https://github.com/Koodattu/ala-ranta.la
 - Year: 2024
   
 ### Fyralath Price Tracker
 #### Website with current price of wow 10.2 legendary weapon crafting materials by region 
-- Platform: Web / Backend / Discord
 - Tech:
   - Platform: Web, Server
   - Languages: Python, JavaScript
@@ -242,7 +240,6 @@ List of my programming side projects.
 
 ### SeAMK Ruoka Flutter
 #### SeAMK Ruoka Android application remade with Flutter and Dart
-- Platform: Mobile
 - Tech:
   - Platform: Mobile
   - Languages: Dart

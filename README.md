@@ -26,8 +26,8 @@ List of my programming side projects.
   * [Actively Working On](#actively-working-on)
     - [Personal Website](#personal-website)
       + Personal website with CV and information about myself and my projects
-    - [Fyralath Price Tracker](#fyralath-price-tracker)
-      + Website with current price of wow 10.2 legendary weapon crafting materials by region 
+    - [Fyralath Data Tracker](#fyralath-data-tracker)
+      + A full-stack app for tracking WoW patch 10.2 legendary weapon crafting cost and acquisition data 
     - [SeAMK Ruoka Flutter](#seamk-ruoka-flutter)
       + SeAMK Ruoka Android application remade with Flutter and Dart
   * [Potential Next Projects](#potential-next-projects)
@@ -224,14 +224,13 @@ List of my programming side projects.
   - Platform: Web, Server
   - Languages: Python, JavaScript
   - Frontend: HTML, CSS
-  - Backend: Flask, MongoDB
+  - Backend: Flask, MongoDB, Github Pages
   - Tools: Visual Studio Code
 - Features:
-  - Show current price of materials to craft legendary weapon per region
-  - Discord bot
-  - Price history
-  - Backend which fetches, saves and sends current price and history information 
-- Link: https://github.com/Koodattu/fyralath-price-tracker
+  - Shows current price craft legendary weapon per region and individual material prices
+  - Shows price history of total price to craft per region
+  - Shows acquisition data, daily and cumulative and per class
+- Link: https://github.com/Koodattu/fyralath-data-tracker
 - Year: 2024
 
 ### SeAMK Ruoka Flutter

@@ -84,6 +84,7 @@ List of my programming side projects.
       - [Diablo Quick Guides](#diablo-quick-guides)
       - [Diablo Item Compare](#diablo-item-compare)
       - [TV to TV](#TV-to-TV)
+      - [Salomaa Fitness App](#salomaa-fitness-app)
 
 ## Completed Projects
 
@@ -831,4 +832,12 @@ List of my programming side projects.
 - Tech: ?
 - Features:
   - Uses TMDB database for actors
+- Link: ?
+
+### Salomaa Fitness App
+#### Fitness app which uses gpt behind the scenes as your personal trainer
+- Platform: Mobile
+- Tech: ?
+- Features:
+  - Uses GPT to personalize plan
 - Link: ?

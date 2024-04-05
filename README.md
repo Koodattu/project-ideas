@@ -51,7 +51,7 @@ List of my programming side projects.
       - [Diablo 4 Streams Leaderboard by Level](#diablo-4-streams-leaderboard-by-level)
       - [WoW Mplus Streams Catalogue](#wow-mplus-streams-catalogue)
       - [Weight Loss Helper](#weight-loss-helper)
-      - [Personal Discord Bot](#personal-discord-bot)
+      - [Vaarattu Discord Bot](#vaarattu-discord-bot)
       - [WoW RaiderIO Discord Bot](#wow-raiderio-discord-bot)
       - [Discord Channel Image Gallery and Downloader](#discord-channel-image-gallery-and-downloader)
       - [Twitch Clips to Tiktoks Bulk Editor](#twitch-clips-to-tiktoks-bulk-editor)
@@ -474,12 +474,13 @@ List of my programming side projects.
   - Calculate water intake per day
 - Link: ?
 
-### Personal Discord Bot
-#### A personal discord bot for posting video feeds for uploaded videos and other features
+### Vaarattu Discord Bot
+#### A personal discord bot for posting video feeds for uploaded videos and other stupid features
 - Platform: Discord
 - Tech: ?
 - Features:
   - Post new videos in specific discord channel text chats from specific channels
+  - Command which uses VR api to find cheapest trains and times for a day
   - Other features
 - Link: ?
 

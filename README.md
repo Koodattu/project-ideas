@@ -2,11 +2,39 @@
 
 List of my programming side projects.
 
+## Current plan
+
+- Archive Fyr'alath Data Tracker
+- SeAMK Ruoka Flutter
+- Personal Website 2.0
+- Vaarattu.tv
+- Discord bot
+- Twitch Reward Redeem Stats
+- Copydel
+- Quick Video Clip Trimmer
+- Automagic Video Highlight Clipper
+- Drink More Water
+- Guess The Price
+- TV to TV
+- Shyiez Lunch App
+- Salomaa Fitness App
+- Discord Channel Image Gallery and Downloader
+- Finnish Twitch Streams Website By Category
+- Nettiauto Data Stats Analysis
+- Last Played Radio Stations Songs
+- Hippos Data Stats Analysis
+- Local Files Organizer
+
 ## Table of Contents 
 
 - [Programming Projects](#programming-projects)
+  * [Current plan](#current-plan)
   * [Table of Contents](#table-of-contents)
   * [Completed Projects](#completed-projects)
+    - [Personal Website](#personal-website)
+      + Personal website with CV and information about myself and my projects
+    - [Fyralath Data Tracker](#fyralath-data-tracker)
+      + A full-stack app for tracking WoW patch 10.2 legendary weapon crafting cost and acquisition data 
     - [Twitch Song Request Desktop](#twitch-song-request-desktop)
       * A Windows desktop Twitch song request application with multi-platform support for song requests
     - [Twitch Spotify Song Request](#twitch-spotify-song-request)
@@ -24,13 +52,9 @@ List of my programming side projects.
     - [SeAMK Ruoka](#seamk-ruoka)
       + An Android lunch menu mobile application for SeAMK students
   * [Actively Working On](#actively-working-on)
-    - [Personal Website](#personal-website)
-      + Personal website with CV and information about myself and my projects
-    - [Fyralath Data Tracker](#fyralath-data-tracker)
-      + A full-stack app for tracking WoW patch 10.2 legendary weapon crafting cost and acquisition data 
     - [SeAMK Ruoka Flutter](#seamk-ruoka-flutter)
       + SeAMK Ruoka Android application remade with Flutter and Dart
-  * [Potential Next Projects](#potential-next-projects)
+  * [Potential Projects](#potential-projects)
       - [Last Played Radio Stations Songs](#last-played-radio-stations-songs)
       - [WoW Mplus and Raid Tools and Stats](#wow-mplus-and-raid-tools-and-stats)
       - [Nettiauto Data Stats Analysis](#nettiauto-data-stats-analysis)
@@ -87,6 +111,36 @@ List of my programming side projects.
       - [Salomaa Fitness App](#salomaa-fitness-app)
 
 ## Completed Projects
+
+### Personal Website
+#### Personal website with CV and information about myself and my projects
+- Tech:
+  - Platform: Web
+  - Languages: JavaScript
+  - Frontend: HTML, CSS
+  - Backend: Github Pages
+  - Tools: Visual Studio Code
+- Features:
+  - Information about myself, education, work experience, projects
+  - In-depth information about educatio and work experience
+  - Projects gallery and in-depth information about the projects
+- Link: https://github.com/Koodattu/ala-ranta.la
+- Year: 2024
+  
+### Fyralath Price Tracker
+#### Website with current price of wow 10.2 legendary weapon crafting materials by region 
+- Tech:
+  - Platform: Web, Server
+  - Languages: Python, JavaScript
+  - Frontend: HTML, CSS
+  - Backend: Flask, MongoDB, Github Pages
+  - Tools: Visual Studio Code
+- Features:
+  - Shows current price craft legendary weapon per region and individual material prices
+  - Shows price history of total price to craft per region
+  - Shows acquisition data, daily and cumulative and per class
+- Link: https://github.com/Koodattu/fyralath-data-tracker
+- Year: 2024
 
 ### Twitch Song Request Desktop
 #### A Windows desktop Twitch song request application with multi-platform support for song requests
@@ -204,36 +258,6 @@ List of my programming side projects.
 
 ## Actively Working On
 
-### Personal Website
-#### Personal website with CV and information about myself and my projects
-- Tech:
-  - Platform: Web
-  - Languages: JavaScript
-  - Frontend: HTML, CSS
-  - Backend: Github Pages
-  - Tools: Visual Studio Code
-- Features:
-  - Information about myself, education, work experience, projects
-  - In-depth information about educatio and work experience
-  - Projects gallery and in-depth information about the projects
-- Link: https://github.com/Koodattu/ala-ranta.la
-- Year: 2024
-  
-### Fyralath Price Tracker
-#### Website with current price of wow 10.2 legendary weapon crafting materials by region 
-- Tech:
-  - Platform: Web, Server
-  - Languages: Python, JavaScript
-  - Frontend: HTML, CSS
-  - Backend: Flask, MongoDB, Github Pages
-  - Tools: Visual Studio Code
-- Features:
-  - Shows current price craft legendary weapon per region and individual material prices
-  - Shows price history of total price to craft per region
-  - Shows acquisition data, daily and cumulative and per class
-- Link: https://github.com/Koodattu/fyralath-data-tracker
-- Year: 2024
-
 ### SeAMK Ruoka Flutter
 #### SeAMK Ruoka Android application remade with Flutter and Dart
 - Tech:
@@ -248,7 +272,7 @@ List of my programming side projects.
 - Link: https://github.com/Koodattu/seamk-ruoka-flutter
 - Year: 2024
 
-## Potential Next Projects
+## Potential Projects
 
 ### Last Played Radio Stations Songs
 #### A web / mobile application for viewing songs last played on finnish radio stations

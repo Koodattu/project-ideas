@@ -25,6 +25,8 @@ List of my programming side projects.
 - Hippos Data Stats Analysis
 - Local Files Organizer
 - WoW Data Website
+- Twitch Chat Bot
+- Raspberry PI Indoor Air Tracking
 
 ## Table of Contents 
 
@@ -110,6 +112,8 @@ List of my programming side projects.
       - [Diablo Item Compare](#diablo-item-compare)
       - [TV to TV](#TV-to-TV)
       - [Salomaa Fitness App](#salomaa-fitness-app)
+      - [Twitch Chat Bot](#twitch-chat-bot)
+      - [Raspberry Pi Indoor Air Tracking](#raspberry-pi-indoor-air-tracking)
 
 ## Completed Projects
 
@@ -866,4 +870,20 @@ List of my programming side projects.
 - Tech: ?
 - Features:
   - Uses GPT to personalize plan
+- Link: ?
+
+### Twitch Chat Bot
+#### Twitch chat bot with random features
+- Platform: Mobile
+- Tech: ?
+- Features:
+  - Command which uses GPT to generate stream title
+- Link: ?
+
+### Raspberry Pi Indoor Air Tracking
+#### Using Raspi, sensors, python to track and host app
+- Platform: Raspberry Pi
+- Tech: ?
+- Features:
+  - Sensors to track temperature, humidity, air quality
 - Link: ?

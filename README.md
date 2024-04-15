@@ -24,6 +24,7 @@ List of my programming side projects.
 - Last Played Radio Stations Songs
 - Hippos Data Stats Analysis
 - Local Files Organizer
+- WoW Data Website
 
 ## Table of Contents 
 

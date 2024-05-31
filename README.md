@@ -4,7 +4,7 @@ List of my programming side projects.
 
 ## Current plan
 
-- Archive Fyr'alath Data Tracker
+- Update Twitch Song Request Desktop
 - SeAMK Ruoka Flutter
 - Personal Website 2.0
 - Vaarattu.tv

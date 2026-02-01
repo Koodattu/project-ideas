@@ -2,7 +2,7 @@
 
 List of my programming side projects.
 
-## Current plan
+## Current ideas
 
 - Update Twitch Song Request Desktop
 - SeAMK Ruoka Flutter
